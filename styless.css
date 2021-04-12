@@ -1,0 +1,197 @@
+#about{
+    color: white;
+    display:block;
+    
+}
+.button {
+    background-color: rgb(255, 145, 0);
+    color: white;
+    border-radius: 5%;
+    border-style: unset;
+    font-size: large;
+    margin-top: 3px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#button2 {
+    background-color: rgb(255, 145, 0);
+    color: white;
+    border-radius: 5%;
+    border-style: unset;
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#button3{
+    background-color: rgb(255, 145, 0);
+    color: white;
+    border-radius: 5%;
+    border-style: unset;
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#callToAction{
+    color: black;
+    font-weight: normal;
+
+}
+.container{
+    text-align: center;
+    margin-bottom: 75px;
+}
+.dropdown{
+    display: none;
+}
+.dropdown-content {
+    min-width: 100%; 
+        background: transparent;
+        display:inline-block;
+        position:relative;
+        float:right;
+        color: white;
+        
+        nav-right:current;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+h2{
+    margin-top: 90px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
+#h2{
+    font-size:25px;
+}
+#heading{
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:300;
+    font-size: 45px;
+    padding-top: 110px;
+    margin-bottom: 40px;
+}
+#laptop{
+    height:350px;
+    position:relative;
+    object-fit:fill;
+    margin-top: 29%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    width: auto;
+}
+#learnMore{
+    color: rgb(255, 145, 0)
+}
+#link{
+    color: rgb(255, 145, 0);
+    font-size: 15px;
+    text-decoration: none;
+}
+#logo{
+    height:0px;
+    width: 0px;
+    background-color: transparent;
+    border-color: transparent;
+    
+    margin-top: 25px;
+}
+#navButton {
+    background-color: transparent;
+    border-radius: 5%;       
+    border-color: white;
+    border-style: solid;
+    border-width: thin;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 10px;
+   
+    }
+
+p{
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+#paragraph{
+    
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+}
+.purple-section{
+background-image: url(https://i.ibb.co/1sc4NHf/Pngtree-purple-polygonal-background-1147168.jpg);
+background-position: 50% 50%;
+background-size:cover;
+height:max-content;
+width:max-content;
+max-height:max-content;
+overflow:auto;
+width: 100%;
+height: 95vh;
+min-height: 850px;
+}
+#question{
+    margin: 50px;
+    font-size:50px;
+    font-weight:lighter;
+}
+#quote{
+    color: black;
+    font-style: italic;
+    font-weight:300;
+    font-family: sans-serif;
+    width: 100%;
+    margin-top: 90px;
+    padding-bottom: 25px;
+}
+.row{
+padding: 10px;
+margin-bottom: 30px;
+}
+.teal-section{
+    background-image: url(https://www.freepik.com/premium-vector/teal-pattern-background_3388490.htm#page=1&query=teal%20background&position=35);
+    background-color: teal;
+    margin-top: 50px;
+    padding: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.white-section{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    color: #434146;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    text-align: center  
+}
+.white-section2{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    text-align: center   
+}
+
+.header.sticky {
+    background-color: rgba(85, 121, 119, 0.55);
+
