@@ -1,10 +1,10 @@
 #about{
     margin-left: 700px;
     color: white;
-    padding-right: 30px;
-    
+    padding-right: 30px;   
 }
-.button {
+
+.button{
     background-color: rgb(255, 145, 0);
     color: white;
     border-radius: 5%;
@@ -17,7 +17,8 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
-#button2 {
+
+#button2{
     background-color: rgb(255, 145, 0);
     color: white;
     border-radius: 5%;
@@ -28,6 +29,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
 #button3{
     background-color: rgb(255, 145, 0);
     color: white;
@@ -39,16 +41,17 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
 #callToAction{
     color: black;
     font-weight: normal;
-
 }
 
 #community{
     color: white;
     padding-right: 30px;
 }
+
 .container{
     text-align: center;
     margin-bottom: 75px;
@@ -57,18 +60,20 @@
 h1{
     color: white;
     text-align: center;
-    margin-bottom: 50px;
-    
+    margin-bottom: 50px;    
 }
+
 h2{
     margin-top: 90px;
     margin-bottom: 50px;
     padding-top: 20px;
     text-align: center;
 }
+
 #h2{
     font-size:25px;
 }
+
 #heading{
     color: black;
     text-align: center;
@@ -78,10 +83,12 @@ h2{
     padding-top: 110px;
     margin-bottom: 40px;
 }
+
 #help{
     color: white;
     padding-right: 30px;
 }
+
 #laptop{
     height:350px;
     position:relative;
@@ -92,29 +99,34 @@ h2{
     width: auto;
     z-index:0;
 }
+
 #learnMore{
     color: rgb(255, 145, 0);
 }
+
 #link{
     color: rgb(255, 145, 0);
     font-size: 15px;
     text-decoration: none;
 }
+
 #logo{
     height:auto;
     max-width: 15%;
     background-color: transparent;
     border-color: transparent;
-    position: fixed;
-    
+    position: fixed;  
     margin-left: 20px;
 }
+
 .navbar{
-position: fixed;
-margin-top: 20px;
-z-index: 1;
+    position: fixed;
+    /* display:flex; */
+    margin-top: 20px;
+    z-index: 1;
 }
-#navButton {
+
+#navButton{
     background-color: transparent;
     border-radius: 5%;       
     border-color: white;
@@ -124,45 +136,52 @@ z-index: 1;
     font-family: sans-serif;
     margin-top: 10px;
     transition: border-width 0.6s linear;
-    }
+}
+
 #navButton:hover{
     border-width: 2px;
 }
+
 p{
     text-align: center;
     color: white;
     font-size: larger;
 }
+
 #paragraph{
-    
     font-size: 20px;
     line-height: 34px;
     text-align: center;
 }
+
 #premium{
     color: white;
     padding-right: 30px;
 }
+
 #premium:hover{
     text-decoration: underline;
 }
+
 .purple-section{
-background-image: url(https://i.ibb.co/1sc4NHf/Pngtree-purple-polygonal-background-1147168.jpg);
-background-position: 50% 50%;
-background-size:cover;
-height:max-content;
-width:max-content;
-max-height:max-content;
-overflow:auto;
-width: 100%;
-height: 95vh;
-min-height: 850px;
+    background-image: url(https://i.ibb.co/1sc4NHf/Pngtree-purple-polygonal-background-1147168.jpg);
+    background-position: 50% 50%;
+    background-size:cover;
+    height:max-content;
+    width:max-content;
+    max-height:max-content;
+    overflow:auto;
+    width: 100%;
+    height: 95vh;
+    min-height: 850px;
 }
+
 #question{
     margin: 50px;
     font-size:50px;
     font-weight:lighter;
 }
+
 #quote{
     color: black;
     font-style: italic;
@@ -173,28 +192,36 @@ min-height: 850px;
     margin-top: 90px;
     padding-bottom: 25px;
 }
+
 .row{
     padding: 10px;
     margin-bottom: 30px;
     column-count: 3;
-    
+    margin-left: 150px; 
 }
+
 .teal-section{
     background-image: url(https://www.freepik.com/premium-vector/teal-pattern-background_3388490.htm#page=1&query=teal%20background&position=35);
     background-color: teal;
     margin-top: 50px;
     padding: 50px;
 }
+
 .white-section{
-    text-align: center;
+    display:flex;
+    align-content: space-between;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
     margin-top: 10px;
     margin-bottom: 50px;
+    /* margin-left: 150px; */
     color: #434146;
     font-size: 24px;
     line-height: 36px;
-    font-weight: 500;
-     
+    font-weight: 500;     
 }
+
 .white-section2{
     text-align: center;
     margin-top: 0px;
